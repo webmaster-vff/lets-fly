@@ -1,0 +1,13 @@
+Title: Glidernet Empfänger
+
+----
+
+Coverimage: 
+
+----
+
+Date: 2017-06-17
+
+----
+
+Text: (link: http://glidernet.org text: Glidernet) ist eine Möglichkeit Segelflugzeuge im Flug zu verfolgen.

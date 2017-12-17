@@ -1,0 +1,52 @@
+Title: Links
+
+----
+
+Text: 
+
+**Luftsportvereine in Siegerland und Umgebung**
+(link: http://www.lsv-hellertal.de/ text: Luftsportverein Hellertal e.V. target: blank) - Siegerland-Flughafen
+(link: http://www.fscnrw.de/ text: Fallschirmsportclub NRW target: blank) - Siegerland-Flughafen
+
+(link: http://lsvh.de/ text: Luftsportverein Hünsborn e.V. target: blank)- Flugplatz Hünsborn
+(link: http://www.flugplatz-schameder.de/ text: Flugsportverein Schameder-Wittgenstein e.V. target: blank) - Erndtebrück-Schameder
+(link: http://www.lsv-siegerland.de/ text: Luftsportverein Siegerland e.V. target: blank) - Flugplatz Eisernhardt
+(link: http://www.lsc-duempel.de/ text: Luftsport-Club Dümpel e.V. target: blank) - Flugplatz Auf dem Dümpel
+ 
+**Web-Portale rund um das Segelfliegen**
+(link: http://www.segelflug.de text: www.segelflug.de target: blank) - der deutsche Segelflugserver
+(link: http://www.segelfliegen-magazin.de text: www.Segelfliegen-Magazin.de target: blank) - die Zeitschrift rund um das Segelfliegen
+(link: http://www.onlinecontest.org text: www.onlinecontest.org target: blank) - Segelflugbundesliga und Wertungen
+(link: http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=1037&st=olcp&rt=olc&c=C0&sc=&sp=2017 text: VfF Geisweid in der Wertung des OLC target: blank)
+
+**Segelflugblogs**
+(link: https://flugfieber.wordpress.com/ text: Flugfieber von Benjamin Bachmeier target: blank)
+(link: http://www.how2soar.de/ text: How2soar von Horst Rupp target: blank)
+(link: http://www.spiegel.de/thema/ueber_den_wolken/ text: Über den Wolken von Michail Hengstenberg target: blank)
+(link: http://www.fliegerblog.ch/ text: Fliegerblog.ch von Ernst Willi target: blank)
+
+**Segelflugwetter**
+(link: http://www.flugbetrieb.com/flugwetter/EDGS text: METAR/TAF - Siegerland Flughafen target: blank)
+Segelflugwetterberichte des DWD für die folgenden GAFOR Gebiete:
+(link: http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_39 text: Gebiet 39 Westerwald target: blank)
+(link: http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_36 text: Gebiet 36 Sauerland target: blank)
+(link: http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43 text: Gebiet 43 Nordhessisches Bergland und Vogelsberg target: blank)
+(link: http://www.wetteronline.de/wetter/siegerland text: Wetter Siegerland Flughafen target: blank) - Wetteronline.de
+(link: http://www.flugwetter.de text: www.Flugwetter.de target: blank) - Flugwetterportal des DWD (kostenpflichtig)
+
+**Segelflugnavigation**
+(link: http://www.openvario.org/doku.php text: Openvario target: blank) - Open Source Navigationscomputer zum Selbstbau
+(link: https://www.xcsoar.org/ text: XCSoar target: blank) - Open Source Segelflugnavigation für Android Geräte
+(link: http://ywtw.de/igc.html text: ywtw.de target: blank) - Konvertieren von IGC-Logdateien in KML-Dateien für Google Earth
+
+**Verbände**
+(link: http://www.daec.de/ text: Deutscher Aero Club target: blank)
+(link: http://www.aeroclub-nrw.de/ text: Deutscher Aero Club / Landesverband Nordrhein-Westfalen target: blank)
+(link: http://www.aeroclub-nrw.de/wpaero/wp-content/uploads/2017/10/Termine_acnrw.pdf text: Termine des Landesverbands target: blank)
+(link: http://www.fly-top.de/ text: www.fly-top.de target: blank) - Flugsicherheitsseminare
+
+**Segelflugzeughersteller**
+(link: http://www.alexander-schleicher.de/ text: Alexander Schleicher Segelflugzeugbau target: blank)
+(link: http://www.dg-flugzeugbau.de/ text: DG-Flugzeugbau target: blank)
+(link: http://www.schempp-hirth.com/ text: Schempp-Hirth Flugzeugbau target: blank)
+(link: http://www.binder-flugmotorenbau.de/ text: Binder Flugmotoren- und Flugzeugbau target: blank)

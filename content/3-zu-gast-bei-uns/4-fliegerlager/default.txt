@@ -1,0 +1,12 @@
+Title: Fliegerlager
+
+----
+
+Text: 
+
+(lightbox: fliegerlager-1_1920px.jpg lbtitle:Fliegerlager imgtitle: Gleich geht's los width: 360 class: floated)
+Unser Heimatflugplatz Siegerland ist bestens geeignet, um dort einen tollen Fliegerurlaub zu verbringen. Neben der nötigen Infrastruktur mit (link: zu-gast-bei-uns/vereinsheim-mieten text: Vereinsheim), (link: zu-gast-bei-uns/wohnwagenplatz-mieten text:  Campingplatz) und Hallenfläche (begrenzt) bietet die Lage zwischen Sauerland und Westerwald beste Voraussetzungen für ausgedehnte Überlandflüge. 
+(image: streckenflug2.png width: 360 class: floated)
+Störende Lufträume gibt es kaum, einzig im Westen (durch den Flughafen Köln-Bonn). Richtung Osten ist oft der Einstieg in die Thermik-Rennstrecke Thüringer Wald möglich.
+
+Für Schlechtwetterphasen und für mitreisende Familienangehörige gibt es in der näheren und weiteren Umgebung jede Menge lohnender (link: https://www.nrw-tourismus.de/region-siegerland-wittgenstein text: Ausflugsziele target: _blank), sei es die wunderschöne Natur oder eines der vielen interessanten Städtchen wie etwa Limburg oder Freudenberg. Das regionale Oberzentrum Siegen lockt mit zahlreichen Einkaufsmöglichkeiten.

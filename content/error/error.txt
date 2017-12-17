@@ -1,0 +1,15 @@
+Title: Es ist ein Fehler aufgetreten
+
+----
+
+Intro: Die von Dir angeforderte Seite wurde nicht gefunden
+
+----
+
+Text: 
+
+Manchmal kann etwas schiefgehen und solange das auf dem Boden passiert und nicht in der Luft, gibt es keinen Grund zur Aufregung. Wir haben unsere Homepage überarbeitet und eventuell wurde die Seite, die Du angefordert, hast durch eine Neue ersetzt.  Auch ein Tippfehler könnte die Ursache sein. 
+Wenn Du dich für das Segelfliegen interessierst, dann schau dir doch mal unsere (link: / text: homepage) an.
+
+Kontaktdaten gibt es (link: service/kontakt-impressum text: hier).
+Informationen zum Verein sind (link: das-sind-wir/verein-heute text: hier) zu finden.

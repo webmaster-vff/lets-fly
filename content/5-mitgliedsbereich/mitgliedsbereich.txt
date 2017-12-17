@@ -1,0 +1,13 @@
+Title: Inside
+
+----
+
+Text: 
+
+Im Mitgliederbereich der neuen VfF Homepage findet man folgende Seiten:
+- (link: /mitgliedsbereich/aktuelle-startlisten text: Aktuelle Startlisten)
+- (link: /mitgliedsbereich/startlistenarchiv text: Startlistenarchiv)
+- (link: /mitgliedsbereich/betriebshandbuecher text: Betriebshandbücher)
+- (link: /mitgliedsbereich/schulungsunterlagen text: Schulungsunterlagen)
+- (link: /mitgliedsbereich/sonstiges text: Sonstiges)
+- (link: logout text: Logout)

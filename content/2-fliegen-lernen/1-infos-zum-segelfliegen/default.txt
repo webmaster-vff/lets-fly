@@ -1,0 +1,70 @@
+Title: Infos zum Segelfliegen
+
+----
+
+Text: 
+
+Segelfliegen ist ein Sport für alle ab 14 bis ins hohe Alter! Viele glauben, Fliegen sei gefährlich und nur etwas für Leute mit viel Geld. Wir möchten Dich gerne vom Gegenteil überzeugen.
+(lightbox: imflug-3_1920px.jpg lbtitle: Fliegenlernen imgtitle: Auch der schönste Flug geht mal zu Ende width: 100% class: center)
+**Abheben ohne Motor!**
+Abheben im Windenstart. Das Gefühl der vollkommenen Freiheit, das Loslösen vom Boden und vom Alltag kann man kaum mit Worten beschreiben - man muss es selbst erleben. Und dazu laden wir Dich gerne ein! Vielleicht sagst Du jetzt: Das wird nicht viel anders sein, als wenn ich in Urlaub fliege... aber das kann man in keiner Weise vergleichen! Deshalb Vorsicht: Wer dem lautlosen Abenteuer, dieser tosenden Stille beim Segelfliegen einmal verfallen ist, kommt nicht mehr davon los...
+
+**Antworten auf häufige Fragen**
+Um Dich ein wenig näher mit unserem faszinierenden Sport bekannt zu machen, haben wir Dir die Antworten auf einige wichtige Fragen hier zusammengestellt.
+
+**Wer kann Segelfliegen lernen?**
+Jeder, der mindestens 14 Jahre alt und gesund ist, Spaß am Fliegen und genügend Zeit dafür hat, kann Segelflieger werden.
+
+**Wie ist das mit der Flugtauglichkeit?**
+Der Fliegerarzt überprüft in festgelegten Zeitabständen, ob ein Pilot die zum Führen eines Flugzeugs wichtigen Gesundheitskriterien erfüllt. Dazu gehört insbesondere ein intaktes Herz-Kreislaufsystem sowie gutes Reaktions-, Hör- und Sehvermögen. Eine Sehschwäche macht übrigens nicht fluguntauglich, sofern sie vollständig durch Brille oder Kontaktlinsen ausgeglichen wird.
+Bis zum 30. Lebensjahr wird das Tauglichkeitszeugnis auf 5 Jahre ausgestellt, darüber für zwei Jahre. Ab 60 muss man einmal jährlich zum Fliegerarzt.
+Das klingt jetzt vielleicht alles sehr streng, aber keine Angst: Wer keine gravierenden Krankheiten hat und sich einigermaßen fit hält, wird beim Fliegerarzt keine Probleme haben.
+
+**Ist Segelfliegen teuer?**
+Dieses Hobby ist im Verein nicht so teuer wie z.B. Tennis, Skifahren oder Reiten. Mit Fluggebühren kostet Segelfliegen für Jugendliche (bis 25J.) ab ca. 35 Euro, für Erwachsene 50 Euro monatlich. Zeit ist bei uns wichtiger als Geld. ((link: fliegen-lernen/gebuehren-im-verein text: Mehr Infos zu den Kosten))
+
+**Ist Segelfliegen nicht gefährlich?**
+Wenn Du die Autofahrt zum Flugplatz geschafft hast, ist das größte Risiko schon überstanden. Denn für uns alle steht das Thema Flugsicherheit ganz oben an. Insbesondere sind zwei Faktoren ganz wichtig: die Technik und die Ausbildung des Piloten.
+(lightbox: imflug-4_1920px.jpg lbtitle: Fliegenlernen imgtitle: In der Platzrunde width: 360 class: floated)
+**Sicherheit durch sichere Flugzeuge**
+Ein Segelflugzeug ist im Gegensatz zu einem Jet sehr einfach konstruiert. Nach einer gründlichen Einweisung ist jeder Flieger in der Lage, zu beurteilen, ob sein Flugzeug in Ordnung ist. Davon überzeugen wir uns regelmäßig:
+- 1x pro Jahr muss jedes Segelflugzeug durch einen anerkannten Flugzeugprüfer abgenommen werden. Für den technisch einwandfreien Zustand der Flugzeuge ist ein geprüfter Werkstattleiter zuständig.
+- 1x pro Tag wird jedes Segelflugzeug vor dem Flugbetrieb von zwei Personen gründlich durchgecheckt.
+- 1x vor jedem Flug überprüft der Pilot überprüft der Pilot alle wichtigen Funktionen wie Steuerung und Instrumente.
+
+**Sicherheit durch Training**
+Eine gute Flugausbildung und verantwortungsvolles Verhalten sind die Grundlagen für unfallfreies Fliegen. Während der Ausbildung lernt jeder angehende Pilot, wie er in besonderen Situationen richtig reagiert und möglichen Gefahren wirksam begegnet. Dazu gehören z.B. das Verhalten bei einem Startabbruch, Anflüge aus ungewohnter Position, das Beenden von Trudeln und Abhilfe beim Orientierungsverlust in der Luft.
+(lightbox: imflug-5_1920px.jpg lbtitle: Fliegenlernen imgtitle: Die Wolken sehen gut aus width: 360 class: floated)
+Um die Gültigkeit der Fluglizenz zu erhalten, muss jeder Pilot eine bestimmte Mindestzahl an Flügen innerhalb zwei Jahren nachweisen. Beim Segelfliegen sind das 25 Flüge. Außerdem muss man regelmäßig zum Fliegerarzt, der die Tauglichkeit feststellt.
+
+**Muss man selbst ein Flugzeug kaufen?**
+Nein!! Der Verein stellt seinen Mitgliedern Segelflugzeuge zur Verfügung.
+
+**Wie wird ein Segelflugzeug gestartet ?**
+Es gibt heute zwei mögliche Startarten:
+1. Der Windenstart:
+Das Flugzeug wird mit der Winde, die am anderen Ende der Startbahn steht, durch ein ca. 900m langes Stahlseil verbunden. Ein starker Motor zieht das Seil ein und schleppt das Flugzeug in die Luft. Anschließend wird das Seil ausgeklinkt.
+(youtube: https://www.youtube.com/embed/V4OYIxjaNjg width: 672 height: 378)
+
+2. Der Flugzeugschleppstart:
+Hierbei wird das Segelflugzeug an einem 40-60m langen Kunstfaserseil von einem Motorflugzeug auf die gewünschte Höhe gebracht.
+(youtube: https://www.youtube.com/embed/GOPvYVuWvoo width:672 height: 378)
+
+**Wie fliegt ein Segelflugzeug ?**
+Die Tragflächen eines Flugzeugs sind auf der Oberseite gewölbt. Die vorbeiströmende Luft erzeugt dort einen Sog und unter dem Flügel einen Druck. Beide wirken nach oben und bilden zusammen den Auftrieb, der die Maschine in der Luft hält. Der Segelflieger setzt bei seinem Gleitflug die Flughöhe in Flugstrecke um.
+
+**Wieso kann ein Segelflugzeug auch steigen ?**
+Der Segelflieger nutzt Aufwindgebiete (Thermik) und steigt in ihnen auch ohne Motor auf große Höhen. Das Steigen in der Thermik zeigt das folgende Video. Der Ton des Variometers zeigt an wie schnell das Flugzeug steigt. Je höher der Ton und je schneller das Piepen desto schneller steigt das Flugzeug.
+(youtube: https://www.youtube.com/embed/nqMFSTFx1Sg width: 672 height: 378)
+
+**Wie lange kann man ohne Motor fliegen?**
+Das hängt vom Wetter und vom Können des Piloten ab. Manchmal ist ein Flug schon nach fünf Minuten zu Ende, nämlich dann, wenn man nach dem Start keinen Aufwind findet und nur seine Starthöhe "verbrauchen" kann. Wenn die Thermik gut ist, kann ein Flug viele Stunden dauern - bei entsprechender Kondition des Piloten vom frühen Morgen bis zum späten Abend.
+
+**Was ist, wenn man in ein Luftloch gerät?**
+Nichts, denn es gibt keine Luftlöcher, nur Auf- und Abwinde, die das Flugzeug ganz einfach durchfliegt.
+
+**Was ist, wenn kein Aufwind mehr vorhanden ist?**
+Man landet auf dem Flugplatz.
+
+**Was ist, wenn der Flugplatz nicht mehr erreichbar ist?**
+Dann landet man auf einem geeigneten Feld. Jedes Segelflugzeug ist hierfür konstruiert. Das ist übrigens keine "Notlandung", sondern eine Außenlandung, die zum normalen Fluggeschehen gehört. Das Verfahren für eine Außenlandung wird während der Ausbildung erlernt.

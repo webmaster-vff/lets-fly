@@ -1,0 +1,10 @@
+Title: Wetter
+
+----
+
+Text: 
+
+Die DWD Segelflug­­berichte.  Für uns sind folgende GAFOR Gebiete interessant:
+(link: http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_39 text: Gebiet 39 Westerwald)
+(link: http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_36 text: Gebiet 36 Sauerland)
+(link: http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43 text: Gebiet 43 Nordh. Bergland/ Vogelsberg)

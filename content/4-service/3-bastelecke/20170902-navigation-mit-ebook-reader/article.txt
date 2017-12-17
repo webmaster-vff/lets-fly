@@ -1,0 +1,23 @@
+Title: Navigation mit eBook-Reader
+
+----
+
+Coverimage: kobo-1_1920px.jpg
+
+----
+
+Date: 2017-09-02
+
+----
+
+Text: 
+
+eBook-Reader von Kobo sind nicht nur zum Lesen von Büchern geeignet, sie können auch mit ein wenig Bastelgeschick als Navi beim Segelflug eingesetzt werden. Die eBook-Reader von Kobo verwenden Linux als Betriebssystem und aus diesem Grund läuft darauf auch (link: https://xcsoar.org/ text: XCSoar target: blank), die kostenlos verfügbare Navigations-software. 
+Die unterstützten Geräte und der Link zum Download der Software findet man (link: https://xcsoar.org/hardware/#kobo text: hier target: blank).
+An dieser Stelle hat man dann die Software für die Navigation, aber die eBook-Reader von Kobo haben kein eingebautes GPS und kein Bluetooth für die einfache Anbindung eines GPS-Empfängers. 
+Also wie kommt das Positionssignal zur Software?
+
+Es gibt die Möglichkeit über einen USB-RS232 Adapter das GPS-Signal eines Flarm zu nutzen. Dies bedeutet aber einen gewissen Verkabelungsaufwand, der nicht praktikabel ist, wenn man unterschiedliche Vereinsflugzeuge nutzt.
+
+Für mich ist nur eine Lösung praktikabel, die autonom funktioniert und keine Signale aus dem Flugzeug benötigt. Eine solche Lösung ist möglich, da der von mir verwendete Kobo Glo intern auf der Platine über Kontakte einer RS232-Schnittstelle verfügt. Auch bei anderen Kobo Modellen steht diese Schnittstelle zur verfügung. Als GPS-Empfänger kommt ein Chip vom Typ PA6H in Frage. Dieser GPS-Chip ist komplett mit interner Antenne und RS232-Schnittstelle und hat eine Stromaufnahme von 20 mA. Damit kann dieser Chip problemlos über den internen Akku des Kobo versorgt werden.
+Nach weiterer Suche entdeckte ich die Möglichkeit ein (link: https://www.blueflyvario.com/product/blueflyvario_ttl_gps_v11/ text: Blueflyvario TTL target: blank) zu verwenden.

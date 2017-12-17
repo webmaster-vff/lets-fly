@@ -1,0 +1,21 @@
+﻿Title: Verein für Flugsport Geisweid e.V.
+
+----
+
+Subtitle: Siegerland Flughafen
+
+----
+
+sidebar: sidebar
+
+----
+
+Author: Mario Rettig
+
+----
+
+Description: Dieses ist die Internetseite des Verein für Flugsport Geisweid e.V.
+
+----
+
+Copyright: © 2009–(date: Year) (link: http://www.vff-geisweid.de text: VfF Geisweid e.V.)

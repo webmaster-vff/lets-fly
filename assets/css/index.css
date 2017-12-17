@@ -256,10 +256,9 @@ mark {
 
 .counter {
   font-family: Monofett;
-  font-size: 24px;
+  font-size: 28px;
   color: #261e66;
 }
-
 
 /* -----  1.4 Images & Figures  --------------------------------------------- */
 
@@ -505,7 +504,7 @@ h1 + .intro {
         vertical-align: bottom;
     }
 }
-
+    
 .wrap {
   background: #fffff8;
   box-sizing: content-box;
@@ -862,7 +861,7 @@ body {
     .branding img {
         float: left;
         width: 113px;
-
+        
         margin-right: .5em;
     }
 }
@@ -874,7 +873,7 @@ body {
         margin-right: 1em;
     }
 }
-
+    
 @media all and (min-width: 20em) and (max-width: 56em){
     .branding H4 {
         font-size: 0.5em;
@@ -892,7 +891,7 @@ body {
         font-size: 1.0em;
     }
 }
-
+    
 @media all and (min-width: 20em) {
   .header {
     padding-top: 2rem;
@@ -918,18 +917,6 @@ body {
 .menu {
   text-align: right;
   font-weight: 500;
-}
-
-@media all and (max-width: 56em){
-    .menu {
-      box-sizing: content-box;
-    }
-    .menu-item:nth-child(odd) {
-      display: inline;
-    }
-    .menu-item:nth-child(even) {
-      display: inline-table;
-    }
 }
 
 @media all and (min-width: 56em) and (max-width: 65em){

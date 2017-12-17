@@ -1,0 +1,5 @@
+Title: Service
+
+----
+
+Text: Auf unseren Service-Seiten findest Du neben (link: /service/kontakt-impressum text:Kontaktdaten) auch viel Material rund um das Segelfliegen. Unter (link: /service/downloads text:Downloads) haben wir einige Dokumente über unseren Verein bereitgestellt. Die (link: service/bildergalerie text: Bildergalerie) enthält schöne Fotos rund um unsere Fliegerei aus der letzten Zeit. Die (link: /service/bastelecke text:Bastelecke) zeigt nützliche Basteleien rund um's Segelfliegen. Auf der (link: service/links text: Link-Seite)  findest Du noch viel weitere Information rund um das Thema Segelfliegen.

@@ -1,0 +1,10 @@
+﻿title: Login zum Mitgliederbereich
+----
+alert: Ungültiger Benutzername oder ungültiges Passwort
+----
+username: Benutzername:
+----
+password: Passwort: 
+----
+button: Login
+
