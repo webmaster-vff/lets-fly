@@ -12,8 +12,8 @@
           <h4><a href="<?= $gallery->url() ?>"><?= $gallery->title()->html() ?> (<?= $images->count() ?> Bilder)</a></h4>
           <?php if($images->count()): ?>
            <figure class="gallery">
-             <a href="<?= $gallery->url() ?>"><?= thumb($images->first(), array('width' => 360)) ?></a>
-             <a href="<?= $gallery->url() ?>"><?= thumb($images->last(), array('width' => 360)) ?></a>
+             <a class="noline" href="<?= $gallery->url() ?>"><?= thumb($images->first(), array('width' => 360)) ?></a>
+             <a class="noline" href="<?= $gallery->url() ?>"><?= thumb($images->last(), array('width' => 360)) ?></a>
            </figure>
           <?php endif ?>
         <?php endforeach ?>

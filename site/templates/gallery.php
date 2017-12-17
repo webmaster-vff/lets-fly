@@ -14,7 +14,7 @@
         <?php if ($i % 2 <> 0): ?>
          <figure>
         <?php endif ?>
-          <a href="<?= $image->url() ?>" data-lightbox="<?= $page->title() ?>" data-title="<?= $page->title() ?>">
+          <a class="noline" href="<?= $image->url() ?>" data-lightbox="<?= $page->title() ?>" data-title="<?= $page->title() ?>">
             <!--<img src="<?= $image->url() ?>" alt="" width="360"/>-->
             <?= thumb($image, array('width' => 360)) ?>
           </a>
