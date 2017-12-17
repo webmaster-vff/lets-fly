@@ -1,0 +1,11 @@
+title: Bildergallerie
+
+pages:
+  template: gallery
+  sort: flip
+  num: date
+
+fields:
+  title:
+    label: Titel
+    type:  text

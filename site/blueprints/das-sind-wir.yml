@@ -1,0 +1,20 @@
+title: Das-sind-wir
+
+files: false
+
+pages:
+  template: das-sind-wir
+
+options:
+  template: false
+  status: false
+  url: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
