@@ -1,0 +1,31 @@
+title: Artikel mit Bildern
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  title
+    width: 3/4
+
+  date:
+    icon: calendar
+    label: Datum
+    type: date
+    format: LL
+    placeholder: Datum wählen...
+    default: today
+    required: true
+    width: 1/4
+
+  pictures:
+    label: Bilder
+    type: structure
+    entry: {{image}}
+    fields:
+      image:
+        type: image
+
+  text:
+    label: Text
+    type: textarea

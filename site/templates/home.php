@@ -37,7 +37,13 @@
               <p class="article-date"><?= $article->date("%d. %B %Y") ?></p>
             </header>
 
-            <?php snippet('coverimage', $article) ?>
+
+            <?php if($article->template()=="artikel-mit-bildern"): ?>
+              <?= $article->template() ?>
+              <?php snippet('randomimage', $article) ?>
+            <?php else: ?>
+              <?php snippet('coverimage', $article) ?>
+            <?php endif ?>
 
             <div class="text">
               <p>
