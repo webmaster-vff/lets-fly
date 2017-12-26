@@ -12,7 +12,7 @@
   <meta name="description" content="<?= $site->description()->html() ?>">
   <link rel="shortcut icon" href="<?= $site->url()."/assets/images/favicon.ico" ?>">
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Monofett" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Monofett" rel="stylesheet">
   <?= css('assets/css/index.css') ?>
   <?= css('assets/css/lightbox.css') ?>
   <?= js('assets/js/jquery-3.2.1.min.js') ?>
@@ -33,12 +33,13 @@
         <h4><?= $site->subtitle()->html() ?></h4>
       </div>
       <div class="branding column-right">
-       <ul class="branding-list">
-         <li>Segelflug</li>
-         <li>Motorsegelflug</li>
-         <li>Ultraleichtflug</li>
-         <li>Ausbildung</li>
-         <li>Leistungsflug</li>
+        <ul class="branding-list">
+          <li>Segelflug</li>
+          <li>Motorsegelflug</li>
+          <li>Ultraleichtflug</li>
+          <li>Ausbildung</li>
+          <li>Leistungsflug</li>
+        </ul>
       </div>
 
       <?php snippet('menu') ?>

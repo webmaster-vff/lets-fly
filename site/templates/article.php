@@ -13,7 +13,6 @@
         </div>
         <hr />
 
-
       <?php snippet('coverimage', $page) ?>
 
       <div class="text">
