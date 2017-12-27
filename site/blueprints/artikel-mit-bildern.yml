@@ -18,6 +18,14 @@ fields:
     required: true
     width: 1/4
 
+  info:
+    label: Hinweis
+    type: info
+    text: >
+      Im 'Artikel mit Bildern' wird ein oder eine gerade Anzahl von Bildern dargestellt.
+      Zwei Bilder werden nach jedem Absatz im Text angezeigt. Ein Absatz unten im Text wird
+      durch eine Leerzeile im Text erzeugt.
+      
   pictures:
     label: Bilder
     type: structure

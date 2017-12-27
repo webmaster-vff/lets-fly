@@ -39,7 +39,6 @@
 
 
             <?php if($article->template()=="artikel-mit-bildern"): ?>
-              <?= $article->template() ?>
               <?php snippet('randomimage', $article) ?>
             <?php else: ?>
               <?php snippet('coverimage', $article) ?>

@@ -7,7 +7,7 @@ pages:
   sort: flip
   num: date
 
-options: 
+options:
   template: false
   status: false
 
